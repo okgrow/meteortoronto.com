@@ -33,6 +33,5 @@ Roster](http://www.techroster.to/) and tag yourself with "meteor".
 ### Other Companies Using Meteor
 
 * [+](https://github.com/okgrow/meteortoronto.com)
-* [Partnershop](http://www.getpartnershop.com/) - A social network for local businesses to connect and collaborate.
 * [Add more companies here...](https://github.com/okgrow/meteortoronto.com)
-* [Partnershop](http://www.getpartnershop.com/)
+* [Partnershop](http://www.getpartnershop.com/) - A social network for local businesses to connect and collaborate.
