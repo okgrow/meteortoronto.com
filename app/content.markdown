@@ -13,8 +13,8 @@ order please).
 ### Education
 
 * [+](https://github.com/okgrow/meteortoronto.com)
-* [Meteor Bootcamp](http://www.okgrow.com/meteor/learn/)
 * [Add more schools here...](https://github.com/okgrow/meteortoronto.com)
+* [Meteor Bootcamp](http://www.okgrow.com/meteor/learn/)
 
 ### Developers (Individuals)
 
@@ -26,10 +26,12 @@ Roster](http://www.techroster.to/) and tag yourself with "meteor".
 ### Development Companies For Hire
 
 * [+](https://github.com/okgrow/meteortoronto.com)
+* [Add more development companies here...](https://github.com/okgrow/meteortoronto.com)
 * [OK GROW!](http://www.okgrow.com/meteor/) - Expert web and mobile app development
+
 
 ### Other Companies Using Meteor
 
 * [+](https://github.com/okgrow/meteortoronto.com)
-* [Partnershop](http://www.getpartnershop.com/)
 * [Add more companies here...](https://github.com/okgrow/meteortoronto.com)
+* [Partnershop](http://www.getpartnershop.com/)
