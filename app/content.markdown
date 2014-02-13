@@ -8,13 +8,14 @@ order please).
 ### Events
 
 * [+](https://github.com/okgrow/meteortoronto.com)
+* [Add more events here...](https://github.com/okgrow/meteortoronto.com)
 * [Meteor Toronto Meetup](http://www.meetup.com/Meteor-Toronto/)
 
 ### Education
 
 * [+](https://github.com/okgrow/meteortoronto.com)
 * [Add more schools here...](https://github.com/okgrow/meteortoronto.com)
-* [Meteor Bootcamp](http://www.okgrow.com/meteor/learn/)
+* [Meteor Bootcamp](http://www.okgrow.com/meteor/learn/) - Learn how to build real-time JavaScript web apps in 2 days
 
 ### Developers (Individuals)
 
