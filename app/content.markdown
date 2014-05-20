@@ -9,6 +9,7 @@ order please).
 
 * [+](https://github.com/okgrow/meteortoronto.com)
 * [Add more events here...](https://github.com/okgrow/meteortoronto.com)
+* [Meteor Code Club](http://www.meetup.com/Meteor-Code-Club/)
 * [Meteor Toronto Meetup](http://www.meetup.com/Meteor-Toronto/)
 
 ### Education
