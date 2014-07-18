@@ -30,6 +30,7 @@ Roster](http://www.techroster.to/) and tag yourself with "meteor".
 * [+](https://github.com/okgrow/meteortoronto.com)
 * [Add more development companies here...](https://github.com/okgrow/meteortoronto.com)
 * [OK GROW!](http://www.okgrow.com/meteor/) - Expert web and mobile app development
+* [rangle.io](http://www.rangle.io/) - Full-stack JavaScript and HTML5 web and mobile development
 
 
 ### Other Companies Using Meteor
