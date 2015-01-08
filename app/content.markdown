@@ -20,10 +20,8 @@ order please).
 
 ### Developers (Individuals)
 
-* [+](http://www.techroster.to/)
-* [See the listings on Toronto Tech Roster](http://www.techroster.to/people?utf8=%E2%9C%93&q=%5Bmeteor%5D) 
-* To add yourself simply add your profile on [Toronto Tech
-Roster](http://www.techroster.to/) and tag yourself with "meteor".
+* [+](http://www.meetup.com/Meteor-Toronto/join/)
+* See the members of the [Meteor Toronto meetup](http://www.meetup.com/Meteor-Toronto/members/) and the [Meteor Code Club monthly hack night](http://www.meetup.com/Meteor-Code-Club/members/)
 
 ### Development Companies For Hire
 
