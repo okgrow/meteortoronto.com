@@ -36,6 +36,5 @@ order please).
 * [+](https://github.com/okgrow/meteortoronto.com)
 * [Add more companies here...](https://github.com/okgrow/meteortoronto.com)
 * [AutoServe1](http://autoserve1.com/) - Professional auto service advertising & selling tools
-* [gob](https://www.omgob.com/) - The best way to do takeout
 * [Partnershop](http://www.getpartnershop.com/) - A social network for local businesses to connect and collaborate.
 * [Raise Your Flag](https://raiseyourflag.com/) - Awesome careers that don't require college degree.
